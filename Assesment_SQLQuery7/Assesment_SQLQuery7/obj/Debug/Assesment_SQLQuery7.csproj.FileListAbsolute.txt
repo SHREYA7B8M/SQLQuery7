@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\MySQL Exercise\Assesment_SQLQuery7\Assesment_SQLQuery7\bin\Debug\Assesment_SQLQuery7.exe.config
+C:\Users\KIIT\Desktop\MySQL Exercise\Assesment_SQLQuery7\Assesment_SQLQuery7\bin\Debug\Assesment_SQLQuery7.exe
+C:\Users\KIIT\Desktop\MySQL Exercise\Assesment_SQLQuery7\Assesment_SQLQuery7\bin\Debug\Assesment_SQLQuery7.pdb
+C:\Users\KIIT\Desktop\MySQL Exercise\Assesment_SQLQuery7\Assesment_SQLQuery7\obj\Debug\Assesment_SQLQuery7.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assesment_SQLQuery7\Assesment_SQLQuery7\obj\Debug\Assesment_SQLQuery7.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assesment_SQLQuery7\Assesment_SQLQuery7\obj\Debug\Assesment_SQLQuery7.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assesment_SQLQuery7\Assesment_SQLQuery7\obj\Debug\Assesment_SQLQuery7.exe
+C:\Users\KIIT\Desktop\MySQL Exercise\Assesment_SQLQuery7\Assesment_SQLQuery7\obj\Debug\Assesment_SQLQuery7.pdb
